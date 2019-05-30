@@ -1,0 +1,51 @@
+--------------------------------------
+HDFS Content Information
+--------------------------------------
+Details  of  HDFS Path : /parent
+--------------------------------------
+	Number of Contents :4
+	Number of Sub Dir :3 [subdir1, subdir2, subdir3]
+	Number of Files :1 [file1.txt]
+-------------------------------
+Directory Name: subdir1
+	Parent Name: parent
+	Number of Content :4
+	Number of Sub Dir :3
+	Size of Sub Dir :0 B
+	Names of Sub Dir :[dir1, dir2, dir3]
+	Number of Files :1
+	Name of Files :[file1.txt]
+-------------------------------
+Directory Name: dir1
+	Parent Name: subdir1
+	Number of Content :1
+	Number of Sub Dir :0
+	Number of Files :1
+	Name of Files :[file1.txt]
+-------------------------------
+Directory Name: dir2
+	Parent Name: subdir1
+	Number of Content :0
+	Number of Sub Dir :0
+	Number of Files :0
+-------------------------------
+Directory Name: dir3
+	Parent Name: subdir1
+	Number of Content :0
+	Number of Sub Dir :0
+	Number of Files :0
+-------------------------------
+Directory Name: subdir2
+	Parent Name: parent
+	Number of Content :2
+	Number of Sub Dir :0
+	Number of Files :2
+	Name of Files :[file1.txt, file2.txt]
+-------------------------------
+Directory Name: subdir3
+	Parent Name: parent
+	Number of Content :3
+	Number of Sub Dir :0
+	Number of Files :3
+	Name of Files :[file1.txt, file2.txt, file3.txt]
+--------------------------------------
